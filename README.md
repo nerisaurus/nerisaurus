@@ -3,7 +3,7 @@
 > \- Donald Knuth, _[An instructive use of recursion](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)_
 
 ## 𐂀 Hi
-I'm a software developer solving problems and creating bugs at [Saga Education](https://saga.org/).  I try to make things easier for people, especially when they're working on great projects (including when that project is themselves - _ad similitudinem Dei_).
+I'm a software developer solving problems and creating bugs at [Saga Education](https://saga.org/).  I try to make things easier for people, especially when they're working on great projects (including when that project is themselves - _τοὺς καθ᾽ ὁμοίωσιν θεοῦ_).
 
 I tend to work on tests, tools and the duct-tape that holds together other people's work - but I'll poke around just about anything.
 <!--
